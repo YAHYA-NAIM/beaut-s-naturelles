@@ -1,0 +1,22 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Beauté Naturelle",
+  "menu": "Menu",
+  "mainContent": "Contenu Principal",
+  "editProfile": "Modifier le profil",
+  "shareApp": "Partager l'application",
+  "pointsBadges": "Mes points et badges",
+  "recommendations": "Recommandations",
+  "favoriteRecipes": "Recettes Favorites",
+  "result": "Résultat",
+  "language": "Langue",
+  "darkMode": "Mode sombre",
+  "notifications": "Notifications",
+  "logout": "Se déconnecter",
+  "years": "ans",
+  "selectLanguage": "Sélectionner la langue",
+  "english": "Anglais",
+  "french": "Français",
+  "cancel": "Annuler",
+  "languageChanged": "Langue modifiée avec succès"
+}

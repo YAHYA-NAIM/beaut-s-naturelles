@@ -1,0 +1,22 @@
+{
+  "@@locale": "en",
+  "appTitle": "Natural Beauty",
+  "menu": "Menu",
+  "mainContent": "Main Content",
+  "editProfile": "Edit the profile",
+  "shareApp": "Share the app",
+  "pointsBadges": "My points and badges",
+  "recommendations": "Recommendations",
+  "favoriteRecipes": "Favorite Recipes",
+  "result": "Result",
+  "language": "Language",
+  "darkMode": "Dark mode",
+  "notifications": "Notifications",
+  "logout": "Log out",
+  "years": "years old",
+  "selectLanguage": "Select Language",
+  "english": "English",
+  "french": "French",
+  "cancel": "Cancel",
+  "languageChanged": "Language changed successfully"
+}

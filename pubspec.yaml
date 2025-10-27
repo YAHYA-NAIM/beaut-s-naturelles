@@ -1,0 +1,55 @@
+name: beaute_naturelle
+description: ""
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  shared_preferences: ^2.5.3
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.2.1
+  google_mlkit_translation: ^0.13.0
+  intl: ^0.20.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/vector.png
+    - assets/onboarding_lines.svg
+    - assets/airplane.svg
+    - assets/matcha_bowl.svg
+    - assets/heart.svg
+    - assets/cloud.svg
+    - assets/leaf_branch_left.svg
+    - assets/leaf_branch_right.svg
+    - assets/cloud2.svg
+    - assets/yellow_blob.svg
+    - assets/fondderrierelebol.svg
+    - assets/blopvert.svg
+    - assets/heart1.svg
+    - assets/matcha_bowl.gif
+    - assets/planete.svg
+
+  fonts:
+    - family: LEMON
+      fonts:
+        - asset: assets/fonts/lemon.ttf
